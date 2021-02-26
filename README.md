@@ -4,10 +4,10 @@ included docker configurations.
 
 
 This repo is boilerplate for react typesript.Shared for people who wants to start up new react peoject easily. 
-react created via cra toolchain with enhanced typescript support. if you want to customize configuration you must first eject cra toolchain the uses react-scripts for builder. After that read "customize-cra" or other tools on the web. 
+react created via cra toolchain with enhanced typescript support. if you want to customize configuration you must first eject cra toolchain that uses react-scripts for builder. After that read "customize-cra" or other tools on the web. 
 
 İf you want to run on docker container, you can modify dockerfile.prod, dockerfile.dev and corresponding docker-compose.yml files respectively. 
-it is easy and wideable. 
+it is easy. 
 
 Before production level, do not forget running "npm run build" command on your terminal or ide. 
 Test stage skipped,but added related configuration files as well. 
