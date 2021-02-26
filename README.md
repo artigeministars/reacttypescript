@@ -1,2 +1,2 @@
 # reacttypescript
-React with typescript boilerplate 
+React boilerplate with typescript  
