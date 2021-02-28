@@ -11,8 +11,8 @@ services:
     volumes:
         - type: bind
           source: .
-          target: /app
-        - '/app/node_modules'
+          target: /opt/web
+        - '/opt/web/node_modules'
     ports:
       - 3001:3000
     environment:
