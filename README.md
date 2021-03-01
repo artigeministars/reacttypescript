@@ -1,6 +1,6 @@
 # reacttypescript
 React boilerplate with typescript  
-included docker configurations. 
+including docker configurations. 
 
 
 This repo is boilerplate for react typesript.Shared for people who wants to start up new react peoject easily. 
